@@ -1,11 +1,12 @@
-# FIELDimageR-Workshop-3
-FIELDimageR Workshop Series - Example 03 : "FIELDimageR pipeline:  Remote sensing applied to plant breeding"
+# FIELDimageR Workshop Series - Example 03 : 
 
-In this course I went through the basic steps of FIELDimageR pipeline showing how to evaluate and apply remote sensing data and lab images in plant breeding. 
+## "FIELDimageR pipeline:  Remote sensing applied to plant breeding"
+
+> In this course I went through the basic steps of FIELDimageR pipeline showing how to evaluate and apply remote sensing data and lab images in plant breeding. 
 
 ## Hands-On:
 
-> Lunch the Binder button below to open a online virtual RStudio to run this tutorial
+> Launch the Binder button below to open a virtual RStudio to run this tutorial online.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/filipematias23/FIELDimageR-Workshop.git/main?urlpath=rstudio)
 
