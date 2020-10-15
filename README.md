@@ -1,6 +1,6 @@
 # FIELDimageR Workshop Series - Example 03 : 
 
-## "FIELDimageR pipeline:  Remote sensing applied to plant breeding"
+## "FIELDimageR pipeline: Image analysis applied to plant breeding"
 
 > In this course I went through the basic steps of FIELDimageR pipeline showing how to evaluate and apply remote sensing data and lab images in plant breeding. 
 
